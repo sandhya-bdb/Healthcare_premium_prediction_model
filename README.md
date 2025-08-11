@@ -29,14 +29,14 @@ AtliQ AI is developing a robust predictive model to estimate health insurance pr
 - **Streamlit Application** with intuitive UI to input client data and view predictions instantly
 
 ---
-LOCAL RUN AND TEST
-# Run EDA notebook
+#LOCAL RUN AND TEST
+###Run EDA notebook
 jupyter notebook notebooks/EDA.ipynb
 
-# Train the model
+### Train the model
 python src/model_training.py
 
-# Run the Streamlit app locally
+### Run the Streamlit app locally
 streamlit run app/streamlit_app.py
 
 
