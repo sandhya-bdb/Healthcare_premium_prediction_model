@@ -39,6 +39,7 @@ python src/model_training.py
 ### Run the Streamlit app locally
 streamlit run app/streamlit_app.py
 
-
+## My URL
+https://healthcarepremiumpredictionmodel-b9byxkvuaqvber7vx4nk6q.streamlit.app/
 
 
